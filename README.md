@@ -31,3 +31,24 @@ Perform a stage multiple times in our workflow. Visualize stage may be used mult
 Drop a stage altogether. We may not need supply stage to productize or service enable our dataset for a competition.
 
 We may also want to develop some early understanding about the domain of our problem. 
+
+# File Description
+X.ipynb - contains python code for predicting survival.
+
+Titanic_Survival.csv - contains sample output file generated from algorithm.
+
+train.csv- contains training data
+
+test.csv - contains testing data for making predictions
+
+readme.md - for guide to this project.
+
+Algorithm Performance
+The procedure mentioned above in Project Description was successful in yielding decent results. The procedure had an accuracy of 100% on unseen validation set in this binary classification problem, which ranked 94 out of total 24000 contestants as of now(top 1%).
+
+Note - The results will keep changing over time as the competition is still ongoing.
+
+References
+[1] Titanic: Machine Learning from Disaster (https://www.kaggle.com/c/titanic)
+
+[2] Titanic: Machine Learning from Disaster Leaderboard (https://www.kaggle.com/c/titanic/leaderboard)
