@@ -48,7 +48,7 @@ The procedure mentioned above in Project Description was successful in yielding 
 
 Note - The results will keep changing over time as the competition is still ongoing.
 
-References
+## References
 [1] Titanic: Machine Learning from Disaster (https://www.kaggle.com/c/titanic)
 
 [2] Titanic: Machine Learning from Disaster Leaderboard (https://www.kaggle.com/c/titanic/leaderboard)
