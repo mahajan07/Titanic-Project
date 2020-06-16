@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Data Science Project
 ## Titanic Sinking Ship Data Science Issue:-
 The script written walks us through a typical workflow for solving which segment of passengers were most likely/unlikely to be saved. The objective of this script is to follow a step-by-step workflow, explaining each step and rationale for every decision we take during solution development.
 ## Question and problem definition
