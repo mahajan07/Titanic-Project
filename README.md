@@ -28,7 +28,6 @@ The workflow indicates general sequence of how each stage may follow the other. 
 We may combine mulitple workflow stages. We may analyze by visualizing data.
 Perform a stage earlier than indicated. We may analyze data before and after wrangling.
 Perform a stage multiple times in our workflow. Visualize stage may be used multiple times.
-Drop a stage altogether. We may not need supply stage to productize or service enable our dataset for a competition.
 
 We may also want to develop some early understanding about the domain of our problem. 
 
@@ -45,8 +44,6 @@ readme.md - for guide to this project.
 
 Algorithm Performance
 The procedure mentioned above in Project Description was successful in yielding decent results. The procedure had an accuracy of 100% on unseen validation set in this binary classification problem, which ranked 94 out of total 24000 contestants as of now(top 1%).
-
-Note - The results will keep changing over time as the competition is still ongoing.
 
 ## References
 [1] Titanic: Machine Learning from Disaster (https://www.kaggle.com/c/titanic)
